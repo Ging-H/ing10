@@ -1,6 +1,6 @@
 ing10 Ver3.3.0
 ================
-
+![ing10](https://github.com/Ging-H/ing10/blob/master/doc/硬石电子ICON.ico)
 ## 开发工具
  - [labview2015](http://download.ni.com/evaluation/labview/ekit/other/downloader/2015LV-WinChn.exe)
 ## 运行环境
