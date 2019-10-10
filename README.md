@@ -8,6 +8,7 @@ ing10 Ver3.3.0
  - [NI Labview运行引擎2015](http://download.ni.com/support/softlib/labview/labview_runtime/2015/Windows/f3/LVRTE2015_f3Patchstd.exe)
 ## 开发与使用
  - 使用Labview2015打开ing10.lvproj进行二次开发
+ - 使用Labview2015打开ing10.lvproj进行二次开发，main.vi就是主界面
  - 安装了NI Labview运行引擎2015之后，可以直接打开硬石上位机.exe使用
 ### 说明
  - *开发环境基于Window10，部分组件只能在window系统上运行，所以不适合在其他系统使用*
